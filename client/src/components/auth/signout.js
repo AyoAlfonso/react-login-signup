@@ -10,7 +10,7 @@ class Signout extends PureComponent {
 
     render() {
         return (
-            <div>Sorry to see you go ...</div>
+            <div>You have logged Out of Alem Health ...</div>
         )
     }
 }
